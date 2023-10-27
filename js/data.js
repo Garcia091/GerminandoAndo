@@ -7,9 +7,9 @@ export const Gusto = [
     },
     {
         id:"02",
-        nombre:"Gatos",
-        descripcion:"Me gusta las",
-        imagen:"https://okdiario.com/img/2023/04/10/-es-malo-que-los-gatos-coman-moscas-y-mosquitos-635x358.jpg"
+        nombre:"MIEL MULTIFLORAL CRUDA",
+        descripcion:"MIEL MULTIFLORAL CRUDA <br><br><br> Miel cruda 650g | 27.000 <br><br> Miel  cruda multifloral <br><br> 500g | 22.000 <br><br> 320g | 18.000",
+        imagen:"https://res.cloudinary.com/db9wh5uvt/image/upload/v1698375690/Imagen2_sqfurx.jpg"
     },
     {
         id:"03",
