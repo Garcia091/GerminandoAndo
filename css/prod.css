@@ -74,12 +74,19 @@ body {
 
 /*ECOLOME*/
 @keyframes filling {
-	from{
+	10%{
 	  background-position: center 25%;
 	}
-	to {
+  30%{
 	  background-position: center 50%;
 	}
+	50%{
+	  background-position: center 70%;
+	}
+  100%{
+	  background-position: center 100%;
+	}
+
   }
   
   #main{

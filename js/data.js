@@ -2,8 +2,8 @@ export const Gusto = [
     {
         id:"01",
         nombre:"ACEITE DE AJONJOLÍ",
-        descripcion:"ACEITE DE AJONJOLÍ<br><br><br> Aceite ajonjolí 250 ml <br> prensado en frio| 17.000 <br><br> Aceite ajonjolí 500 ml <br> prensado en frio |30.000",
-        imagen:"https://res.cloudinary.com/db9wh5uvt/image/upload/v1698357161/Imagen10_csnp6d.jpg"
+        descripcion:"ACEITE DE AJONJOLÍ <br><br><br> Nuestro aceite de ajonjolí ha sido<br> extraído mediante presión en frío<br> de la semilla de sésamo <br>o ajonjolí.<br> Consumido regularmente nos aporta <br>ácidos grasos esenciales<br> como omega 3 y omega 6, los<br> cuales favorecen la salud<br> cardiovascular.",
+        imagen:"./images/AceiteAjonjoli.jpg"
     },
     {
         id:"02",
@@ -13,27 +13,27 @@ export const Gusto = [
     },
     {
         id:"03",
-        nombre:"Conejos",
-        descripcion:"Me gusta ...",
-        imagen:"https://t2.ea.ltmcdn.com/es/posts/6/8/0/razas_de_conejos_enanos_o_toy_24086_600_square.jpg"  
+        nombre:"Aceite de linaza",
+        descripcion:"ACEITE DE LINAZA<br><br><br>",
+        imagen:"./images/AceiteLinaza.jpg"  
     },
     {
-        id:"01",
-        nombre:"Aceite de ajonjolí",
-        descripcion:"Me gusta las",
-        imagen:"https://okdiario.com/img/2023/04/10/-es-malo-que-los-gatos-coman-moscas-y-mosquitos-635x358.jpg"
+        id:"04",
+        nombre:"Aceite de coco ",
+        descripcion:"ACEITE DE COCO <br><br><br>Nuestro aceite de coco ha sido <br>extraído en la región de Cundinamarca<br> mediante presión en frío de la pulpa <br> del coco deshidratado. <br> El aceite de coco es rico en ácidos<br> grasos de cadena media con <br>propiedades antibacterianas,<br> antivirales y antimicóticas,<br> consumido regularmente fortalece <br>el sistema inmunológico.",
+        imagen:"./images/AceiteCoco.jpg"  
     },
     {
-        id:"02",
-        nombre:"Gatos",
-        descripcion:"Me gusta las",
-        imagen:"https://okdiario.com/img/2023/04/10/-es-malo-que-los-gatos-coman-moscas-y-mosquitos-635x358.jpg"
+        id:"05",
+        nombre:"El Chucrut ",
+        descripcion:"EL CHUCRUT <br><br><br>Vegetales orgánicos cosechados el<br> mismo día de su elaboración:<br> Repollo morado y blanco, zanahoria,<br> cebolla blanca y roja, daikon, <br> sal de mar con hierbas fermentados <br>por 10 días. El Chucrut es rico en <br> enzimas, <br>vitaminas y minerales.",
+        imagen:"./images/Chucrut.jpg"  
     },
     {
-        id:"03",
-        nombre:"Conejos",
-        descripcion:"Me gusta ...",
-        imagen:"https://t2.ea.ltmcdn.com/es/posts/6/8/0/razas_de_conejos_enanos_o_toy_24086_600_square.jpg"  
+        id:"06",
+        nombre:"El ghee",
+        descripcion:"EL GHEE <br><br>El ghee es un alimento ayurvédico <br> elaborado con mantequilla de vaca,<br> la cual es sometida a un fuego<br> controlado para retirarle la caseína <br>(proteína de la leche) y la lactosa. <br>El resultado es un líquido amarillo <br>transparente puro (grasas de alta <br> densidad) de excelente calidad, muy<br>tolerable y digestivo. <br>El punto de humo es alto, aguanta<br> temperaturas medio altas sin <br>quemarse y sin cambiar sus<br> cualidades terapéuticas.",
+        imagen:"./images/ghee.JPG"  
     }
 ]
 
